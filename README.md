@@ -4,7 +4,7 @@ This repository contains Python notebooks developed alongside a theoretical cour
 The objectice is to complement formal definitions and proofs with computational implementations that help build applied intuition.
 Rather than focusing on large-scale algorithms, the emphasis here is on **conceptual clarity**: translating abstract ideas into explicit code, simulations, and finite examples.
 
-For consistency, nost of the notations and definitions are borrowed from **Professor Debasis Mishra's** notes (Indian Statistical Institute, New Delhi) - [Mechanism Design notes](https://www.isid.ac.in/~dmishra/gmdoc/mdnotes.pdf).
+For consistency, most of the notations and definitions are borrowed from **Professor Debasis Mishra's** notes (Indian Statistical Institute, New Delhi) - [Mechanism Design notes](https://www.isid.ac.in/~dmishra/gmdoc/mdnotes.pdf).
 
 All other relevant sources are cited where applicable.
 
