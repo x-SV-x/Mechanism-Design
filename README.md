@@ -1,5 +1,5 @@
 # Computational Explorations in Mechanism Design
-This repository contains Python notebooks developed alongside a theoretical course in **Mechanism Design** taught by [Dr. Parikshit De](https://eco.iiserb.ac.in/profile_parikshit_de.php)  at [IISER Bhopal](https://www.iiserb.ac.in).
+This repository contains Python notebook developed alongside a theoretical course in **Mechanism Design** taught by [Dr. Parikshit De](https://eco.iiserb.ac.in/profile_parikshit_de.php)  at [IISER Bhopal](https://www.iiserb.ac.in).
 
 The objectice is to complement formal definitions and proofs with computational implementations that help build applied intuition.
 Rather than focusing on large-scale algorithms, the emphasis here is on **conceptual clarity**: translating abstract ideas into explicit code, simulations, and finite examples.
@@ -44,8 +44,8 @@ Topics covered in each notebook are as follows:
 ## Author
 
 **Vaibhav Thakur**  
-Undergraduate student, IISER Bhopal  
-Coursework in Economics and Mathematics
+BS (Major: Economics, Minor: Mathematics), IISER Bhopal  
+ 
 
 ---
 
